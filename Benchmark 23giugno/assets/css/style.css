@@ -168,15 +168,18 @@ nav {
     margin-left: 5px;
     font-size: 13px;
     font-weight: bold;
+    color: #191919;
 }
 
 .trending-title{
     font-weight: bold;
+    color: #191919;
 }
 
-.trending-data{
+.trending-date{
     margin-top: 8px;
     font-size: 15px;
+    color: #888787;
 }
 
 .last-in-line{
@@ -269,11 +272,14 @@ hr{
     flex-direction: column;
     max-width: 500px;
     min-width: 500px;
+ margin-top: 13px;
+    color: #888787;
  
 }
 
 .article-title{
     font-weight: bold;
+    color: #191919;
 }
 
 .article-icone{
@@ -291,3 +297,4 @@ hr{
 .article-icone img{
     border-radius: 100%;
 }
+
